@@ -8,7 +8,6 @@ end
 # gem 'sunspot_rails'
 
 gem 'sqlite3','~> 1.3.0'
-# gem 'mongoid', '~> 6.2.1'
 gem 'mongoid'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
